@@ -1,1 +1,1 @@
-Hello from the subdirectory `sub` in `test` repo.
+Hello from the subdirectory `sub` in the `test` repo.
