@@ -1,3 +1,3 @@
-![](https://raw.githubusercontent.com/stencila/stencila/refs/tags/v2.7.0/docs/images/stencila.png)
+![](README.media/58bf7bed146738c9.png)
 
-A small repository for testing Stencila's integrations with Git, Github etc.
+A small repository for testing Stencila's integrations with, and between, Github, Google Docs, and Microsoft Office 365. Test update from Google Docs.
