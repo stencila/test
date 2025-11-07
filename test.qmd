@@ -2,8 +2,15 @@
 title: Test
 ---
 
-Here is a plot
+Here is a pink plot.
 
 ```{r}
 hist(rnorm(1000), col='pink')
 ```
+
+
+- A
+- B
+- C
+
+## Heading
