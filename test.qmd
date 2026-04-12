@@ -1,9 +1,0 @@
----
-title: Test
----
-
-Here is a plot
-
-```{r}
-hist(rnorm(1000), col='pink')
-```
