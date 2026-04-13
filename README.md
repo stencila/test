@@ -3,4 +3,3 @@ A small repository for testing Stencila's integrations with, and between, Github
 Another paragraph, just for testing.
 
 And one more, for luck :)
-
