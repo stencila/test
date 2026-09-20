@@ -4,3 +4,5 @@ Another paragraph, just for testing.
 
 And one more, for luck :)
 
+This line was added to test the GitHub source-repository workflow.
+
